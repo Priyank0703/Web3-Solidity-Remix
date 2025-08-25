@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/projects/tweeter-smart-contract.sol": "Tweeter"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/projects/tweeter-smart-contract.sol": {
+			"keccak256": "0x08f63ff0c95fa5051339b31b5fae05ceb25de1591942be282e36d7fdb3bee320",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c5c3c590aa36cab216bff5347463be575f4df55938bdf7778d2db2ae8c0d9269",
+				"dweb:/ipfs/QmRrTnsH7DawXnmuZpd614rZ6T749dM8QAfCKEFZcJraYh"
+			]
+		}
+	},
+	"version": 1
+}

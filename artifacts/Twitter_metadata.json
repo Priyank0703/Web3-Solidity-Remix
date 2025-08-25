@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/projects/twitter-smart-contract.sol": "Twitter"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/projects/twitter-smart-contract.sol": {
+			"keccak256": "0xe9c16c1b0734599024a5530731d82b7b6e9f36abb88e26851e3b95835dd14338",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e9e5e1e3edf3c39a598212d29f4a286ccbf6f4cdc9618cf6174851978bf709a6",
+				"dweb:/ipfs/QmdLtXovYJLVz5jRozZuYYJfcsaPk8i59meUJMPst2jCLU"
+			]
+		}
+	},
+	"version": 1
+}

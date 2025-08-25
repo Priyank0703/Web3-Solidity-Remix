@@ -259,7 +259,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/voting-smart-contract.sol": "Vote"
+			"contracts/projects/voting-smart-contract.sol": "Vote"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -273,7 +273,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/voting-smart-contract.sol": {
+		"contracts/projects/voting-smart-contract.sol": {
 			"keccak256": "0x2fb1e52e0d9e466d19cf28e5c35a1025f34deea08ccd219cc22aefa2eb8c2727",
 			"license": "MIT",
 			"urls": [
